@@ -1,0 +1,17 @@
+h1 {
+    display: inline-block;
+    font-size: 40px;
+    color: #F2F2F2;
+    text-shadow: 4px 4px 0 #000000;
+    font-family: "Press Start 2P", Arial, Helvetica, sans-serif;
+    background-color: #F2B90C;
+}
+
+h2 {
+    display: inline-block;
+    font-size: 30px;
+    color: #F2F2F2;
+    text-shadow: 4px 4px 0 #000000;
+    font-family: "Press Start 2P", Arial, Helvetica, sans-serif;
+    background-color: #F2B90C;
+}

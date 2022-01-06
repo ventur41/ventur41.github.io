@@ -33,7 +33,7 @@ nav > a {
 
 a::before {
     content: "";
-    background-color: #f2b90c;
+    background-color: #F2B90C;
     height: 10px;
     width: 10px;
     margin-right: 10px;
