@@ -10,7 +10,7 @@ nav {
     text-align: right;
 }
 
-nav > a {
+nav a {
     display: inline-flex;
     align-items: center;
     color: #0D0D0D;
