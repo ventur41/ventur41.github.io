@@ -1,0 +1,13 @@
+.headerLogo {
+    height: 60px;
+    width: 60px;
+    transition: transform 100ms linear;
+    display: inline-flex;
+    text-decoration: none;
+    margin: 0 30px 0 10px;
+}
+
+.headerLogo:hover {
+    transform: scale(1.02);
+}
+
