@@ -1,8 +1,9 @@
 .banner{
     box-sizing: border-box;
-    background-image: url(../../assets/img/photo.png);
-    background-repeat: no-repeat;
-    background-size: 100%;
+    background-color: #1d1e1b;
+ /*    background-image: url(../../assets/img/photo.png);
+    background-repeat: no-repeat; */
+/*     background-size: 100%; */
     height: 800px;
     border-bottom: 10px solid #000000;
     padding-left: 240px;
@@ -27,4 +28,12 @@
 
 .banner .button{
     box-shadow: 5px 5px 0 #000000;
+}
+
+.bannerImage{
+    position: absolute;
+    height: 335px;
+    width: 250px;
+    right: 285px;
+    top: 250px;
 }
